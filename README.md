@@ -31,8 +31,8 @@ I'm building my foundation in Machine Learning, Statistics, and Python, and I pu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasekar22-ds&layout=compact&hide_border=true)
 
 ## 📫 Connect With Me
-- LinkedIn: [your-link](https://linkedin.com/in/your-id)
-- Email: your-email@example.com
+- LinkedIn: [your-link]([https://linkedin.com/in/your-id](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByU%2FcFRIRS%2Fenh5JbP44eAg%3D%3D))
+- Email: your-email@rajasekar22official@gmail.com
 
 ---
 ⭐ *Learn daily. Build daily. Push daily.*
