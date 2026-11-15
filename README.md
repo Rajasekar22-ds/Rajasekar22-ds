@@ -13,18 +13,21 @@ I'm building my foundation in Machine Learning, Statistics, and Python, and I pu
 
 ## 🛠️ Skills
 
-![Python](https://github.com/Rajasekar22-ds/python)
-![Pandas](https://github.com/Rajasekar22-ds/pandas)
-![Statistics](https://github.com/Rajasekar22-ds/Statistics)
-![Machine Learning](https://github.com/Rajasekar22-ds/Machine-Learning)
-![MediTruth-AI](https://github.com/Rajasekar22-ds/MediTruth-AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge)
 
+## 📌 Featured Project
+- **[MediTruth-AI](https://github.com/Rajasekar22-ds/MediTruth-AI)**: one line on what it does and the tools used
 
-## 📌 Featured Projects
-<!-- Replace with your real projects -->
-- **[Project Name](link)**: one line on what it does and the tools used
-- **[Project Name](link)**: one line on what it does and the tools used
-- **[Daily Learning Repo](link)**: my daily ML, statistics, and Python notes and code
+## 📅 Daily Learning Repos
+- **[Python](https://github.com/Rajasekar22-ds/python)**: daily Python practice
+- **[Pandas](https://github.com/Rajasekar22-ds/pandas)**: data analysis with Pandas
+- **[Statistics](https://github.com/Rajasekar22-ds/Statistics)**: statistics concepts and code
+- **[Machine Learning](https://github.com/Rajasekar22-ds/Machine-Learning)**: ML algorithms and notes
 
 ## 📈 GitHub Stats
 
@@ -32,8 +35,8 @@ I'm building my foundation in Machine Learning, Statistics, and Python, and I pu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasekar22-ds&layout=compact&hide_border=true)
 
 ## 📫 Connect With Me
-- LinkedIn: [your-link]([https://linkedin.com/in/your-id](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByU%2FcFRIRS%2Fenh5JbP44eAg%3D%3D))
-- Email: your-email@rajasekar22official@gmail.com
+- LinkedIn: [Rajasekar](https://www.linkedin.com/in/your-id)
+- Email: rajasekar22official@gmail.com
 
 ---
 ⭐ *Learn daily. Build daily. Push daily.*
