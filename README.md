@@ -13,12 +13,13 @@ I'm building my foundation in Machine Learning, Statistics, and Python, and I pu
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge)
+## 📂 My Repositories
+
+[![Python](https://img.shields.io/badge/Python-Daily%20Practice-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Rajasekar22-ds/python)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Rajasekar22-ds/pandas)
+[![Statistics](https://img.shields.io/badge/Statistics-Concepts-FF6F00?style=for-the-badge)](https://github.com/Rajasekar22-ds/Statistics)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Algorithms-8A2BE2?style=for-the-badge)](https://github.com/Rajasekar22-ds/Machine-Learning)
+[![MediTruth-AI](https://img.shields.io/badge/MediTruth--AI-Featured%20Project-00A67E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasekar22-ds/MediTruth-AI)
 
 ## 📌 Featured Project
 - **[MediTruth-AI](https://github.com/Rajasekar22-ds/MediTruth-AI)**: one line on what it does and the tools used
